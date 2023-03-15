@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: 아이유.jpg
+about_profile_image: 1.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 이시형입니다. <mark>like this</mark>.
 
